@@ -1,5 +1,5 @@
-fastapi
-uvicorn
+fastapi==0.111.0
+uvicorn==0.23.0
 pandas
 scikit-learn
-numpy
+joblib
